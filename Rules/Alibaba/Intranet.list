@@ -1,5 +1,6 @@
 # NAME: Alibaba Intranet (Converted for Surge)
 # SOURCE: https://query.aliyun.com/rest/proxy.intranet.list
+
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.net
